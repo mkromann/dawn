@@ -1,8 +1,6 @@
 
 # Code of Conduct
 
-# Test
-
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
